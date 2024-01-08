@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    margin-left: 350px;
+    margin-top: -775px;
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    box-shadow: 10px 0px 15px 8px rgba(175, 175, 175, 0.634);
+    border-radius: 5px;
+  
+}
+
+.navbar>input {
+    width: 350px;
+    height: 45px;
+    outline: none;
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-left: 40px;
+}
+.navbar>input::placeholder{
+    font-size: 18px;
+}
+#profile{
+    /* background-color: red; */
+display: flex;
+width: 200px;
+justify-content: space-around;
+height: 50px;
+border-left:1px solid grey ;
+}
+#profile>img{
+    background-color: rgb(116, 113, 120);
+    border-radius: 50%;
+}
+#profcont{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    color: rgb(140, 139, 139);
+}
