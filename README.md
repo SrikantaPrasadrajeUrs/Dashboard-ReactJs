@@ -1,4 +1,4 @@
-
+Hello all please view pages at 80% magnification use ctrl and + or ctrl and - to adjust screen size - thank you
 website==> [https://srikantaprasadrajeurs.github.io/Dashboard-ReactJs/)
 
 # Getting Started with Create React App
