@@ -33,10 +33,20 @@
     border-radius: 8px;
     background-color: white;
     transition: .5s;
+    justify-content: space-between;
+    padding-right: 15px;
 }
 .trending>h4:hover{
     background-color: rgb(111, 107, 107);
     transition: .5s;   
     color: white;
     cursor: pointer;
+    display: flex;
+    
+}
+#greendot{
+    background-color: rgb(14, 203, 14);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
 }
